@@ -1,0 +1,6 @@
+Starting job
+Hello world!
+My favorite food is pizza.
+I am 26 years old.
+Resting 30 sec
+Job complete
