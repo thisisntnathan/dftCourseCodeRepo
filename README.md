@@ -1,2 +1,3 @@
-# dftShortCourseFiles
-Files for the DFT short course
+# dftCourseCodeRepo
+
+A complete set of files for the DFT Course
